@@ -77,5 +77,43 @@ A passionate React Native developer with over 2 years of experience, including 1
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vdh17112001&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
+<p align="center">
+------------------ or ------------------
+</p>
+
+
+<p align="center">
+  <a href="https://leetcode.com/u/vdh17112001/" >
+    <img align="center" alt="vdh17112001 | Leetcode" src="https://img.shields.io/badge/LeetCode-FE7C10?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+------------------------------------
+
+<p align="center">
+  <a href="mailto:vdh17112001@gmail.com" >
+    <img align="center" alt="vdh17112001 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/hoang-vu-duc-20b1042b1/" target="_blank">
+    <img align="center" alt="vdh17112001 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/profile.php?id=100023260999720" target="_blank">
+      <img align="center" alt="vdh17112001 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://profile-summary-for-github.herokuapp.com/user/vdh17112001" target="_blank">
+    <img align="center" alt="vdh17112001 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+<p> 
+
+<div align="center">
+  ❤️ Thanks for watching! Wish you a nice day! 🌤️ <br/>
+  &copy; Vu Duc Hoang 
+</div>
+
+
 
 
