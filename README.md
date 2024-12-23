@@ -1,5 +1,5 @@
 
-## <div align="center"> <h4>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duc Hoang</h4> <h5> A passionate full stack developer from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center"> <h4>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duc Hoang</h4> <h5> A passionate developer from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 ------------------------------------
 
