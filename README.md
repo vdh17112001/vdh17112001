@@ -110,7 +110,7 @@ A passionate React Native developer with over 2 years of experience, including 1
 <p> 
 
 <div align="center">
-  ❤️ Thanks for watching! Wish you a nice day! 🌤️ <br/>
+  ❤️ Thanks for watching! Wish you have a nice day! 🌤️ <br/>
   &copy; Vu Duc Hoang 
 </div>
 
