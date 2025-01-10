@@ -71,24 +71,21 @@ A passionate React Native developer with over 2 years of experience, including 1
 </div>
 
 ------------------------------------
-### 🌱 Watch my growth
-
+<!--
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vdh17112001&theme=algolia&background=0d1117&hide_border=true" />
-</div>
+</div>-->
 
-<p align="center">
+<!-- <p align="center">
 ------------------ or ------------------
-</p>
+</p> -->
 
 
-<p align="center">
-  <a href="https://leetcode.com/u/vdh17112001/" >
+<!--<p align="center">
+  <a href="https://leetcode.com/u/vdh17112001/"> 
     <img align="center" alt="vdh17112001 | Leetcode" src="https://img.shields.io/badge/LeetCode-FE7C10?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
-
-------------------------------------
+</p>-->
 
 <p align="center">
   <a href="mailto:vdh17112001@gmail.com" >
