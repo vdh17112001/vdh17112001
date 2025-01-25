@@ -9,7 +9,7 @@ A passionate React Native developer with over 2 years of experience, including 1
 * 🌍  I'm based in Viet Nam :vietnam:
 * ✉️  You can contact me at [vdhoang17112001@gmail.com](mailto:vdhoang17112001@gmail.com)
 * 🚀  I'm currently working on [nongdan.dev](http://nongdan.dev/) as **React Native Developer**
-* ⚡ My best skills are Java and React Native ^ ^ 
+* ⚡ My best are Java and React Native ^ ^ 
 
 ### My Tech Stacks :brain:
 
