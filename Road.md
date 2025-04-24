@@ -1,7 +1,9 @@
-React Native Dev
+React + React Native Dev
 
 Using Java/Kotlin for Android
 
 Using Swift for Ios
 
-Rust 
+Java Spring for Backend
+
+C# & Godot
